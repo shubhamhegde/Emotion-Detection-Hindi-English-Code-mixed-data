@@ -67,7 +67,7 @@ words was used to perform this filtering.
 
 ## Embeddings
 Before running the Machine Learning models, the
-preprocessed corpus has to be converted to embeddings. Word Embeddings are vector representations to encode the meaning of words such that
+preprocessed corpus has to be converted to embeddings. Word Embeddings are vector representations to encode the meaning of words such that
 similar words are closer in distance. Several word
 embedding methods are available for monolingual
 languages. However Hindi-English code-mixed
