@@ -53,8 +53,8 @@ removal of hashtags, URLs and other special characters like emojis. We then conv
 lowercase and restricted the tweet length to avoid
 longer length texts.
 Code-mix specific preprocessing was an integral
-part of our work. While dealing with tweets, normalizing them , i.e, converting misspelt and abbreviated words to a standardized form is a a necessity.
-Though there has been previous work in normalizing English tweets (Gupta and Joshi, 2017), there
+part of our work. While dealing with tweets, normalizing them , i.e, converting misspelt and abbreviated words to a standardized form is a a necessity.
+Though there has been previous work in normalizing English tweets (Gupta and Joshi, 2017), there
 is limited research done on code-mixed data. We
 performed code-mix normalization in a rule-based
 fashion. An initial exploratory analysis was done
